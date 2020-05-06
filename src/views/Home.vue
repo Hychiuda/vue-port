@@ -7,7 +7,7 @@
 
     <div id="underline">an mmd student.</div>
 
-    <img src='@/assets/landscape.png' alt="background wallpaper" width="100%" height="623">
+    <img src='@/assets/landscape.png' alt="background wallpaper" width="100%" height="auto">
 
     <div id="hi">
       <img alt="overline" src="@/assets/hi.png" width="10%" height="10%">
