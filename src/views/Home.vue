@@ -27,7 +27,7 @@
       <img alt="overline" src="@/assets/cv.png" width="40%" height="50%">
   </div>
     <div class="video">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/c3sKl-uqIBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/gbzXv6G9LCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   </div>                                     
 </body>
