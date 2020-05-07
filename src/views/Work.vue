@@ -1,10 +1,10 @@
 <template>
   <div id="alpha-div">
-    <div id="overline">
+    <div id="overline2">
       <img alt="headline" src="@/assets/work.png" width="25%" height="">
     </div>
     
-    <div id="underline">my creations below.</div>
+    <div id="underline2">my creations below.</div>
     
     <div class="primbox">
       <section id="alpha-one">    
@@ -167,22 +167,25 @@
         
     } 
     
-    #overline{
+    #overline2{
       background-color: #d4dce8;
         color: #313131;
         font-family: "Tangelo", Courier, monospace;
         text-align: center;
         font-size: 50px;
-        padding: 100px 0 0 0;
+        padding: 0px 0 0 0;
+        margin-bottom: -30px;
     
     }
     
-    #underline{
+    #underline2{
       background-color: #d4dce8;
         color: #4d648e;
         font-family: "Nexa", Courier, monospace;
         text-align: center;
         font-size: 25px;
+        padding-bottom: 200px;
+
     
     }
 

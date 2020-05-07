@@ -70,6 +70,7 @@ margin: 0;
 }
 
 #underline{
+  
     color: #4d648d;
     font-family: "Nexa", Courier, monospace;
     text-align: center;
