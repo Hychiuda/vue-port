@@ -102,18 +102,18 @@
 
 <style lang="scss">
 .primbox{
-    background-color: #e0ebe8;
+    background-color: #d4dce8;
     width: 100%;
     height: 922px;   
 }
 #alpha-div{
-        background-color: #e0ebe8;
+        background-color: #d4dce8;
         width: 100%;
         height: 300px;       
     }   
     
     #alpha-one{
-        background-color: #e0ebe8;
+        background-color: #d4dce8;
         width: 100%;
         height: 1000px;   
     }
@@ -168,7 +168,7 @@
     } 
     
     #overline{
-      background-color: #e0ebe8;
+      background-color: #d4dce8;
         color: #313131;
         font-family: "Tangelo", Courier, monospace;
         text-align: center;
@@ -178,11 +178,11 @@
     }
     
     #underline{
-      background-color: #e0ebe8;
-        color: #45b29a;
+      background-color: #d4dce8;
+        color: #4d648e;
         font-family: "Nexa", Courier, monospace;
         text-align: center;
-        font-size: 30px;
+        font-size: 25px;
     
     }
 
