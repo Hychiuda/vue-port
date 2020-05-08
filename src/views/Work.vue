@@ -102,138 +102,127 @@
 
 <style lang="scss">
 .primbox{
-    background-color: #d4dce8;
-    width: 100%;
-    height: 922px;   
+  background-color: #d4dce8;
+  width: 100%;
+  height: 922px;   
 }
 #alpha-div{
-        background-color: #d4dce8;
-        width: 100%;
-        height: 300px;       
-    }   
+  background-color: #d4dce8;
+  width: 100%;
+  height: 300px;       
+}   
     
-    #alpha-one{
-        background-color: #d4dce8;
-        width: 100%;
-        height: 1000px;   
-    }
+#alpha-one{
+  background-color: #d4dce8;
+  width: 100%;
+  height: 1000px;   
+}
 
-    #alpha-two{
-        background-color: #fff;
-        width: 100%;
-        height: 1000px;   
-        
-    }
+#alpha-two{
+  background-color: #fff;
+  width: 100%;
+  height: 1000px;    
+}
 
-    #alpha-three{
-        background-color: #e8e2e2;
-        width: 100%;
-        height: 1000px;    
-        
-    }
+#alpha-three{
+  background-color: #e8e2e2;
+  width: 100%;
+  height: 1000px;    
+}
 
-    #alpha-four{
-        background-color: #fff;
-        width: 100%;
-        height: 1000px;   
-        
-    }
+#alpha-four{
+  background-color: #fff;
+  width: 100%;
+  height: 1000px;           
+}
 
-    #alpha-five{
-        background-color: #e2e1ea;
-        width: 100%;
-        height: 1000px;    
-        
-    }   
+#alpha-five{
+  background-color: #e2e1ea;
+  width: 100%;
+  height: 1000px;            
+}   
 
-    #alpha-six{
-        background-color: #fff;
-        width: 100%;
-        height: 1000px;   
-        
-    } 
+#alpha-six{
+  background-color: #fff;
+  width: 100%;
+  height: 1000px;          
+} 
 
-    #alpha-seven{
-        background-color: #e8e4da;
-        width: 100%;
-        height: 1000px;   
-        
-    } 
+#alpha-seven{
+  background-color: #e8e4da;
+  width: 100%;
+  height: 1000px;           
+} 
 
-    #alpha-eight{
-        background-color: #fff;
-        width: 100%;
-        height: 1000px;    
-        
-    } 
+#alpha-eight{
+  background-color: #fff;
+  width: 100%;
+  height: 1000px;            
+} 
     
-    #overline2{
-      background-color: #d4dce8;
-        color: #313131;
-        font-family: "Tangelo", Courier, monospace;
-        text-align: center;
-        font-size: 50px;
-        padding: 0px 0 0 0;
-        margin-bottom: -30px;
+#overline2{
+  background-color: #d4dce8;
+  color: #313131;
+  font-family: "Tangelo", Courier, monospace;
+  text-align: center;
+  font-size: 50px;
+  padding: 0px 0 0 0;
+  margin-bottom: -30px;    
+}
     
-    }
-    
-    #underline2{
-      background-color: #d4dce8;
-        color: #4d648e;
-        font-family: "Nexa", Courier, monospace;
-        text-align: center;
-        font-size: 25px;
-        padding-bottom: 200px;
+#underline2{
+  background-color: #d4dce8;
+  color: #4d648e;
+  font-family: "Nexa", Courier, monospace;
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 200px;  
+}
 
-    
-    }
+section{
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
-    section{
-        width: 100%;
-        height: 1000px;
-        display: flex;
-        justify-content: space-between;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-    .middlebox{
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
+.middlebox{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
     
-    .category_img{
-        
-        justify-content: center;
-        display: flex;
-        margin: 0 auto;
-         
-    }
+.category_img{        
+  justify-content: center;
+  display: flex;
+  margin: 0 auto;         
+}
     
-    .category_text{
-        font-family: "Nexa", Times, serif;
-        color: #545454;
-        height: 100px;
-        width: 20%;
-        font-size: 20px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        margin-top: 50px;
-        line-height: 150%;
-        text-align: center;
-    }
+.category_text{
+  font-family: "Nexa", Times, serif;
+  color: #545454;
+  height: 100px;
+  width: 20%;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  line-height: 150%;
+  text-align: center;
+}
 
-    .category_text_top{
-        font-family: "Nexa", Times, serif;
-        height: 75px;
-        width: 50%;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        margin-top: 100px;
-        font-size: 28px;
-        color: #545454;
-    }
+.category_text_top{
+  font-family: "Nexa", Times, serif;
+  height: 75px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  font-size: 28px;
+  color: #545454;
+}
 </style>
