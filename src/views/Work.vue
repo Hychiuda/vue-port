@@ -96,6 +96,39 @@
           </div>                                        
         </div>
       </section>
+       <section id="alpha-nine">
+        <div id="section-eight">
+          <div class="middlebox">
+            <div class="category_text_top">Double Exposure Assignment</div>
+            <div class="category_img"><img src="@/assets/art9.png" alt="art8" width="20%" height="100%"></div>
+            <div class="category_text">We were tasked with applying double exposure to a portrait of ourselves in Photoshop.
+              I went with a city feel for my double exposure assignment.
+              I wanted to illustrate the city in my thoughts and also it gradually fading out from my upper body </div>
+          </div>                                        
+        </div>
+      </section>
+      <section id="alpha-ten">
+        <div id="section-eight">
+          <div class="middlebox">
+            <div class="category_text_top">Double Exposure Assignment</div>
+            <div class="category_img"><img src="@/assets/art10.png" alt="art8" width="20%" height="100%"></div>
+            <div class="category_text">We were tasked with applying double exposure to a portrait of ourselves in Photoshop.
+              I went with a city feel for my double exposure assignment.
+              I wanted to illustrate the city in my thoughts and also it gradually fading out from my upper body </div>
+          </div>                                        
+        </div>
+      </section>
+      <section id="alpha-eleven">
+        <div id="section-eight">
+          <div class="middlebox">
+            <div class="category_text_top">Double Exposure Assignment</div>
+            <div class="category_img"><img src="@/assets/art11.png" alt="art8" width="20%" height="100%"></div>
+            <div class="category_text">We were tasked with applying double exposure to a portrait of ourselves in Photoshop.
+              I went with a city feel for my double exposure assignment.
+              I wanted to illustrate the city in my thoughts and also it gradually fading out from my upper body </div>
+          </div>                                        
+        </div>
+      </section>
     </div>  
   </div>
 </template>
